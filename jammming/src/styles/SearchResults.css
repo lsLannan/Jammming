@@ -1,0 +1,10 @@
+.search-result-container {
+    background-color: #2b114e;
+    width: 50%;
+    color: white;
+    opacity: 75%;
+    margin: 50px 100px 100px 100px;
+    border-radius: 1%;
+    height: 600px;
+    overflow-y: auto;
+}

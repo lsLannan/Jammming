@@ -1,0 +1,31 @@
+.playlist-container {
+    width: 50%;
+    background-color: #2b114e;
+    opacity: 75%;
+    margin: 50px 100px 100px 100px;
+    border-radius: 1%;
+}
+
+.playlist-input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    font-size: 24px;
+    color: white;
+    background-color: #2b114e;
+    margin-top: 25px;
+}
+
+.save-btn {
+    color: white;
+    font-weight: bold;
+    background-color: darkmagenta;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 25px;
+}
+
+.save-btn:hover {
+    cursor: pointer;
+    background-color: rgb(78, 1, 78);
+}

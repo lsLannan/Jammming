@@ -1,0 +1,55 @@
+.song-container {
+    border-bottom: 1px solid darkgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 25px;
+    margin: 0 25px;
+}
+
+.song-title {
+    color: white;
+}
+
+.song-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.song-artist {
+    color: grey;
+}
+
+.song-album {
+    color: grey;
+}
+
+.save-button {
+    color: white;
+    font-weight: bold;
+    background-color: darkmagenta;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.save-button:hover {
+    cursor: pointer;
+    background-color: rgb(78, 1, 78);
+}
+
+.add-btn {
+    border: 2px solid lightgray;
+    border-radius: 25px;
+    height: 50px;
+    width: 50px;
+    background-color: #2b114e;
+    margin-top: 20px;
+    font-size: 25px;
+    color: lightgray;
+}
+
+.add-btn {
+    cursor: pointer;
+}

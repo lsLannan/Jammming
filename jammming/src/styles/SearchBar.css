@@ -1,0 +1,25 @@
+.searchbar-container {
+    margin-top: 20px;
+}
+
+.search-bar {
+    width: 350px;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+}
+
+.search-btn {
+    color: white;
+    font-weight: bold;
+    background-color: #2b114e;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.search-btn:hover {
+    cursor: pointer;
+    background-color: rgb(78, 1, 78);
+}
